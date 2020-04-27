@@ -1,0 +1,7 @@
+/usr/src
+/usr/local/src
+
+sudo find / -maxdepth 6 -iname "src" -type d
+
+# i create my own:
+~/mylocal/src

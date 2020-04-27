@@ -34,3 +34,7 @@ Exec=$(whereis qtile)
 Type=Application
 Keywords=wm;tiling
 EOF
+
+#==============================
+
+# how reinstall?
